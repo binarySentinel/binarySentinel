@@ -7,15 +7,13 @@
 <tr border="bold">
 <td width="100%" align="left">
   
-- I’m currently Focusing on **Python and C#.**
+- I’m currently Focusing on **Java and C++.**
 
 - I have passion for exploring the intricacies of **“computer science, programming, cybersecurity, Engineering, and innovative projects”.**
 
-- Ask me about **MATLAB , PYTHON , WORDPRESS , HTML , CSS and JS.**
+- I'm good in **MATLAB , Java , WORDPRESS .**
 
-- <p>Contact me on <a href="https://leagueofseekers.media/">The Seekers</a>.</p>
-
-- Mail me on waruna105@gmail.com
+- Mail me on warunakulathilaka2@gmail.com
 
   
 </td>
